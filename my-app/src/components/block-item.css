@@ -1,0 +1,13 @@
+.container{
+    width: 100%;
+    max-width: 1180px;
+    height: 200px;
+    display: flex;
+    justify-content: space-between;
+    align-items: end;
+}
+.block-con{
+    width: 100px;
+    height: 70px;
+    background-color: blue;
+}
